@@ -5,9 +5,9 @@
 using namespace std;
 void test()
  {
+   // sdfsfs
     Solider kk("wkw");
     kk.addGun(new Gun("Ak47"));
-    cout<<"222"<<endl;
     kk.addBulletToGun(20);
     kk.fire();
  }
