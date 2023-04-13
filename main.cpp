@@ -5,7 +5,7 @@
 using namespace std;
 void test()
  {
-   cout<<"gogo"<<endl;
+   // cout<<"gogo"<<endl;
     Solider kk("wkw");
     kk.addGun(new Gun("Ak47"));
     kk.addBulletToGun(20);
